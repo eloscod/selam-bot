@@ -1,6 +1,5 @@
 .env
-*.sqlite3
-*.pyc
-__pycache__/
 bot.log
-.vscode/
+venv/
+__pycache__/
+*.pyc
